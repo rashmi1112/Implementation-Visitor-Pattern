@@ -1,4 +1,5 @@
-# CSX42: Assignment 4
+# Implementation of Visitor Pattern
+
 **Name:** Rashmi A.Badadale
 
 -----------------------------------------------------------------------
@@ -46,16 +47,4 @@ The MissingIntsVisitor prints the missing integers from a given array between 00
 easier to add/remove operation in a list. 
 
 A String  builder is used to store the output result and then passed on to an output file through a buffered writer and also to the standard output console.  
-
-
-## Academic Honesty statement:
-
-"I have done this assignment completely on my own. I have not copied
-it, nor have I given my solution to anyone else. I understand that if
-I am involved in plagiarism or cheating an official form will be
-submitted to the Academic Honesty Committee of the Watson School to
-determine the action that needs to be taken. "
-
-Date: [07/22/2020]
-
 
